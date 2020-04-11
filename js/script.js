@@ -548,7 +548,6 @@ var quotes = [
 {quote:"El precio que tenemos que pagar por el dinero se paga en libertad. (Robert L. Stevenson)", source: "ConfiguroWeb"},
 {quote:"El tener mucho dinero tan sólo sirve para ser los más ricos del cementerio. (Tonino Licciardello Bernabé, gurú informático)", source: "ConfiguroWeb"},
 {quote:"El tesoro que no se gasta aprovecha poco. (Proverbio Árabe)", source: "ConfiguroWeb"},
-{quote:"", source: "ConfiguroWeb"},
 {quote:"En casa llena, presto se guisa la cena. (Miguel De Cervantes)", source: "ConfiguroWeb"},
 {quote:"En el origen de todas las fortunas hay cosas que hacen temblar. (Louis Bourdaloue)", source: "ConfiguroWeb"},
 {quote:"Eso de que el dinero no da la felicidad son voces que hacen correr los ricos para que no les envidien demasiado los pobres. (Jacinto Benavente)", source: "ConfiguroWeb"},
