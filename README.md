@@ -1,2 +1,2 @@
-# Inspirational-Quote-Generator
-This is a simple javascript project to display inspirational quotes at random.
+# Generador de citas inspiradoras
+Este es un proyecto simple de JavaScript para mostrar citas inspiradoras al azar.
